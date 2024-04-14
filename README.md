@@ -1,2 +1,0 @@
-# hellotickets
-Technical Excercise
